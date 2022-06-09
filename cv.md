@@ -1,5 +1,5 @@
 
-! [portrait] (\Users\User\Desktop\Serge.png)
+![portrait](C:\Users\User\Desktop\Serge_web.png)
 
 # **Serge Shyts**
 ---
@@ -30,10 +30,9 @@ I don't have experience in IT yet.
 ---
 
 ## **Education**
-1. Belarusian State University, Faculty of Law.
-2. RS-School, JS-Development.
+1.Belarusian State University, Faculty of Law
+2.RS-School, JS-Development.
 ---
 
 ## **Language**
 English B2/B1
----
