@@ -1,4 +1,3 @@
-# **rsschool-cv**
 
 ![portrait](\Users\User\Desktop\Serge.png)
 
