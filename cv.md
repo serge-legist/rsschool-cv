@@ -1,5 +1,5 @@
 
-![portrait](C:\Users\User\Desktop\Serge_web.png)
+![Serge_web](/assets/Serge_web.jpg)
 
 # **Serge Shyts**
 ---
@@ -8,7 +8,7 @@
 **Discord:** Serge-legist
 **e-mail:** pravo84@yandex.ru
 **Telegram:** Legist_RB
-**Tel.** +375 29 772 11 67
+**Tel.(Viber)** +375 29 772 11 67
 
 ---
 
