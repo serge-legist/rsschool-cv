@@ -2,6 +2,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 * {
-    box-sizing: boder-box;
-    border: 1px solid rgb(0, 204, 255)
+    box-sizing: border-box;
+    border: 1px solid rgb(0, 204, 255);
 }
