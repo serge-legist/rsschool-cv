@@ -1,1 +1,1 @@
-# rsschool-cv
+https://serge-legist.github.io/rsschool-cv/
