@@ -7,8 +7,8 @@
     <link rel="icon" href="./pictures/favicons/favicon.ico">
  </head>
 <body>
-    <div class="container">
-        <nav class="nav">
+    <header>
+        <div class="nav-header">
             <ul class="nav-list">
                 <li><a href="#summary" class="nav-link">Summary</a></li>
                 <li><a href="#skills" class="nav-link">Skills</a></li>
@@ -17,12 +17,12 @@
                 <li><a href="#education" class="nav-link">Education</a></li>
                 <li><a href="#language" class="nav-link">Language</a></li>
             </ul>
-        </nav>
-    </div>
-    <header class="header"><img src="./pictures/images/Serge_web.jpg" alt="my photo" width="170px" height="170px">
-            <h1>Serge Shyts
-                <h2>JS/FE</h2>
-            </h1>
+        </div>
+        <div class="header">
+            <img src="./pictures/images/Serge_web.jpg" alt="my photo" width="150" height="150">
+            <h1>Serge Shyts</h1>
+            <h2>JS/FE</h2>
+        </div>
     </header>
     <main class="main">
         <aside class="aside">
@@ -42,7 +42,7 @@
                 </div>
             </div>
         </aside>
-        <div>
+        <div class="main-menu">
             <ul>
                 <li id="summary"><div class="menu">About myself</div>
                    <div class="description">The expansion of competencies, their complementary use and development of new skills is my principle, goal and at the same time a means of ensuring my own relevance and employment.
@@ -58,21 +58,21 @@
                 <li id="experience"><div class="menu">Work experience</div>
                   <div class="description">I don't have experience in IT yet.</div>
                 </li>
-                  <li id="education"><div class="menu">Education</div>
-                <ul class="description">
-                    <li class="education">Belarusian State University, Faculty of Law</li>
-                    <li class="education">RS-School, JS-Development</li>
-                </ul>
-                <li id="language"><div class="menu">Language</div>
-                    <div class="description">English B2/B1</div>
+                <li id="education"><div class="menu">Education</div>
+                  <ul class="description">
+                     <li class="education">Belarusian State University, Faculty of Law</li>
+                     <li class="education">RS-School, JS-Development</li>
+                  </ul>
                 </li>
+                <li id="language"><div class="menu">Language</div>
+                  <div class="description">English B2/B1</div>
                 </li>
             </ul>
         </div>
     </main>
     <footer class="footer">
             <div class="footer-link"><a href="https://github.com/serge-legist">My GitHub: Serge-legist</a></div>
-            <div class="footer-link"><img src="./pictures/images/rs_school_js.svg" alt="rsschool-logo" width="50px" height="50px"></div>
+            <div class="footer-linklogo"><img src="./pictures/images/rs_school_js.svg" class="logo" alt="rsschool-logo" width="70" height="30"></div>
             <div class="footer-link"><a href="https://rs.school/js/">Course: JS/FE</a></div>
     </footer>
 </body>
